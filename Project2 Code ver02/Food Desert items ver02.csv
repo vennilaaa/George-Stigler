@@ -1,0 +1,19 @@
+Food,Category,FDC,Quantity,Units,Price,Shelf Life,FD Asscessibility,Location
+canned corn ,Vegetables,748323,14.75,oz,0.79,2-5 years ,High,Pak'N Save
+Frozen Carrots,Vegetables,746764,12,oz,0.98,2-5 years ,High,Pak'N Save
+Ramen Noodles,Other,171177,3,oz,1,Forever,High,Pak'N Save
+Canned Green Beans,Vegetables,169143,14.5,oz,1.99,3-5 years,High,Pak'N Save
+Frozen Broccoli,Vegetables,169968,2.205,lbs,5.99,1 years,High,Pak'N Save
+"Candies, milk chocolate",Other,167587,0.418878,lbs,1.39,Forever,High,Pak'N Save
+Wheat Bread,Grains,172688,1.32277,lbs,2.39,2 weeks or 2-3 months if Forzen,High,Pak'N Save
+Pasta sauce (Marinara),Other,171192,1.2436,lbs,2.65,1-2 years,High,Pak'N Save
+White Rice,Grains,168879,2.205,lbs,2.99,Forever,High,Pak'N Save
+Canned hotdog(Vienna),Protein,172011,4.6,oz,1.99,1-2 years,High,Pak'N Save
+Canned Tuna,Protein,173709,0.2094,lbs,1.25,2-5 years ,High,Pak'N Save
+Spam,Protein,172951,0.7495,lbs,6.49,2-5 years ,High,Pak'N Save
+Frozen Pizza ,Other,168957,1.1023,lbs,7.49,1-2 months ,High,Pak'N Save
+Milk,Dairy,171267,101.422,oz,5.39,5-9 days ,High,Pak'N Save
+Salted Potato Chips,Other,169677,0.33,lbs ,2,Forever,High,Pak'N Save
+Bananas,Fruits,173944,1.874,lbs ,3.79,1-2 weeks,High,Pak'N Save
+Eggs,Protein,747997,21,Oz,8.19,1 month,High,Pak'N Save
+Crumpets,Other,1930285,8,Oz,6,2 month,High,Pak'N Save
